@@ -298,7 +298,7 @@ a {
 }
 
 .home_center {
-    background-image: url(images/banner.jpg);
+    background-image: url(img/images/banner.jpg);
     height: 400px;
     margin-top: 39px;
 }
@@ -454,7 +454,7 @@ a {
 .card-text {
     font-weight: 700;
     font-size: 20px;
-    line-height: 0px;
+    line-height: 24px;
 }
 
 /* banner section */
